@@ -1,0 +1,61 @@
+#HeaderTitle {
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    color: darkgreen;
+}
+
+#TitleDescription {
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: large;
+    font-weight: bolder;
+    color: green;
+}
+
+#VirdiImage {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 15%;
+    border: 5px;
+    border-style:inset;
+    border-color: brown;
+    border-radius: 5px;
+}
+
+#BasicButton {
+    margin: 0;
+    margin-top: 25px;
+    position: relative;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    font-family: 'Courier New', Courier, monospace;
+    font-size: large;
+    font-weight: bolder;
+    color: limegreen;
+}
+
+#TextIdk {
+    margin-top: 5px;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: x-large;
+    font-weight: bolder;
+    color: rgb(21, 100, 21);
+}
+
+#UpgradeButton {
+    margin: 0;
+    margin-top: 10px;
+    position: relative;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    font-family: 'Courier New', Courier, monospace;
+    font-size: large;
+    font-weight: bolder;
+    color: limegreen;
+}
