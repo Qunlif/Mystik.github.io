@@ -9,7 +9,7 @@ function Shorten(Amount, suffix = '') {
      }
 
      let index = suffix ? suffixes.indexOf(suffix) + 1 : 1;
-     return convert(Amount / 1000, suffixes[index])
+     return Shorten(Amount / 1000, suffixes[index])
 }
 
 function buttonFunction() {
